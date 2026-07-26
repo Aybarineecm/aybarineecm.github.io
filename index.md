@@ -13,6 +13,7 @@ Technical Product Manager | AI & Data Products | Enterprise Automation | Cross-F
 - **Location**: Kingston, Jamaica | Remote-ready, Visa sponsorship available
 
 *Founder, TechTalksWithAyba · Speaker, Scotiabank Women's Initiative Jamaica*
+*Founder, MendezKare · Haircare*
 
 ---
 
