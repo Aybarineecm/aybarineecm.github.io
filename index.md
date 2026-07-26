@@ -3,187 +3,180 @@ layout: default
 title: Home
 ---
 # Aybarinee Campbell Mendez
-Data & AI Engineer | Backend Systems | ML Pipelines | Product Management
+Technical Product Manager | AI & Data Products | Enterprise Automation | Cross-Functional Delivery
 
 ## Contact
 - **Email**: aybarineecampbellmendez@gmail.com
 - **Phone**: (876) 476-2302
-- **LinkedIn**: (https://www.linkedin.com/in/aybarinee)
-- **GitHub**: (https://github.com/aybarineecm)
+- **LinkedIn**: [linkedin.com/in/aybarinee](https://www.linkedin.com/in/aybarinee)
+- **GitHub**: [github.com/aybarineecm](https://github.com/aybarineecm)
 - **Location**: Kingston, Jamaica | Remote-ready, Visa sponsorship available
 
-## Professional Summary
-Data & AI Engineer with 3+ years of experience designing and shipping production ETL pipelines, ML inference systems, intelligent automation platforms, and enterprise data infrastructure. Proven track record of measurable impact: cut a 5-day procurement cycle to 8 hours, saved $500K+ in operational costs, migrated 400,000+ records from legacy Excel systems into structured data platforms, and built ML pipelines processing 180,000+ annotated images for real-time inference. Currently leading a company-wide AI & automation initiative across 15 departments at the Port Authority of Jamaica, and founder of TechTalkSayba — a Jamaican tech education brand making AI accessible to communities who need it most.
+*Founder, TechTalksWithAyba · Speaker, Scotiabank Women's Initiative Jamaica*
 
-Transitioning toward Product Management with a focus on data platforms, research infrastructure, and AI systems — bringing engineering depth and a track record of cross-functional delivery to questions of strategy and direction.
+---
+
+## Professional Summary
+
+Technical Product Manager with 5+ years of experience owning product strategy, roadmaps, and cross-functional delivery for AI, data, and enterprise automation products. Built and shipped products used by 50+ staff across 15 departments — from discovery and stakeholder alignment through design, delivery, and adoption.
+
+Delivered outsized business impact: **cut a 5-day procurement cycle to 8 hours**, saved **$2M+** in operational costs, migrated **400,000+ legacy records** into structured platforms with zero data loss, and drove a **70% reduction in manual reporting** across the organization. Deep technical background in data engineering and AI — able to write the spec, challenge the architecture, and ship the product.
+
+Founder of TechTalksWithAyba, a Jamaican tech education brand; invited speaker at the Scotiabank Women's Initiative.
+
+---
 
 ## Work Experience
 
 ### Port Authority of Jamaica — Kingston, Jamaica
 
-**Lead Software Engineer — Data, AI & Platform** *(Feb 2024 – Present)*
+**Product Lead & Lead Software Engineer — AI, Data & Automation** *(Feb 2024 – Present)*
 
-- **Led company-wide AI & automation initiative** across 15 departments — fully automated end-to-end workflows for Procurement, Finance, and Legal (3 of 15 complete, in progress), replacing manual approvals, document routing, and data entry with intelligent Power Platform solutions
-- **Designed and built production ETL pipelines and relational data models** for Free Zones financial operations processing tens of thousands of high-value transactions monthly; achieved **99.5% data accuracy** and **100% audit traceability** through automated validation, reconciliation, and anomaly detection
-- **Cut a 5-day procurement cycle to 8 hours** through AI-assisted workflow automation — $500K+ in annual operational savings, 96% reduction in manual procurement work
-- **Migrated 400,000+ legacy contracts from Excel** into a fully structured relational database with a custom ETL pipeline, deduplication logic, and validation rules — zero data loss during cutover
-- Built and maintained **20+ executive Power BI dashboards** tracking operational KPIs; reduced manual reporting effort by **70%** across finance, operations, and legal teams
-- **Architected and shipped end-to-end enterprise platforms**: IT Asset Management (with AI anomaly detection, multi-level approval workflows, and lifecycle tracking) and Contract Management Portal (digital signatures, expiry reminders, searchable repository)
-- Optimized SQL queries, indexes, and stored procedures achieving a **35% improvement in system performance**; introduced monitoring and alerting to catch data issues proactively
-- Implemented data governance standards: RBAC, data dictionaries, validation rules, and audit trails ensuring regulatory compliance across all platforms
-- **Designed and delivered AI adoption training** for 50+ staff across departments — upskilling non-technical users to work alongside AI tools and automated workflows
-- Established CI/CD practices for data pipeline and platform deployments; implemented observability and alerting to reduce production incidents
+- **Owned the product roadmap** for a company-wide AI & automation platform across 15 departments — defined strategy, sequenced delivery, and prioritized a backlog of 50+ automation opportunities by business impact; projected to deliver **$2M+** in cumulative operational savings upon full rollout
+- **Led product discovery across 15 departments** — ran 30+ stakeholder interviews and requirements sessions with department heads, mapped manual workflows end-to-end, and translated pain points into product specifications that engineering could immediately act on
+- **Shipped the Procurement Automation Platform** — defined user stories, acceptance criteria, and success metrics; coordinated delivery across engineering, Finance, Legal, and Procurement; launched to production **cutting a 5-day cycle to 8 hours**, achieving **96% reduction in manual work** and **$500K+** in annual savings
+- **Shipped the AI-Powered IT Asset Management Platform** — led end-to-end product delivery from discovery through adoption; defined multi-level HOD approval workflows, AI anomaly detection features, and reporting requirements; achieved **50+ daily active users** and **100% audit compliance** post-launch
+- **Shipped the Contract Management Portal** — defined requirements for migrating **400,000+ legacy Excel contracts** into a structured platform; oversaw ETL delivery, designed contract lifecycle workflows (digital signatures, expiry reminders, approval routing), and drove adoption with Legal and Procurement teams
+- **Defined and tracked product KPIs** across all platforms — built **20+ executive Power BI dashboards** translating operational data into leadership-ready insights; reduced manual reporting effort by **70%** and established self-serve analytics across finance, operations, and legal
+- **Secured C-suite and Board buy-in** for 3 major product investments — presented platform strategy directly to executive leadership; reduced approval cycles from **6 weeks to under 2 weeks** by framing technical decisions in business outcomes
+- **Led AI adoption across the organization** — designed and delivered training programs for **50+ non-technical staff**; tracked adoption rates and iterated on training based on user feedback to drive sustained engagement
+- **Mentored 4 junior engineers** as both product owner and technical lead — grew team velocity by **30%** over 6 months; 2 engineers promoted within 12 months
+- **Drove build-vs-buy decisions** for 6 major tooling evaluations — avoided 3 unnecessary vendor contracts, saving an estimated **$150K+ annually**
+- Established data governance standards — RBAC, data dictionaries, validation rules, audit trails — ensuring **99.5% data accuracy** and regulatory compliance across all platforms
 
-**Tech Stack**: Python (Flask, FastAPI) · SQL (MS SQL Server, PostgreSQL) · Power Automate · Power Apps · Power BI · Azure DevOps · GCP · CI/CD (Jenkins) · ETL pipeline design · Data modeling · Monitoring & alerting · React · TensorFlow
-
----
-
-**Junior Software Engineer — Backend & Data** *(Jun 2023 – Feb 2024)*
-
-- Built and maintained backend APIs and system integrations in Python and SQL supporting high-volume data ingestion across procurement, operations, and third-party systems
-- Designed and optimized MS SQL Server databases (schemas, indexes, ETL jobs) for reliable, fast transaction processing
-- **Reduced data processing errors by 40%** through validation logic, automated reconciliation rules, and error-alerting workflows
-- Automated daily, weekly, and monthly reporting pipelines using ETL patterns and Power Automate — eliminated manual effort and cut report delivery time by **70%**
-- Implemented logging, monitoring, and observability for backend data services enabling rapid incident diagnosis
-- Collaborated with analysts and business teams to translate requirements into technical designs; produced data dictionaries, specs, and runbooks
-
-**Tech Stack**: Python · SQL · Power Automate · System integration · Data quality frameworks · MS SQL Server
+**Tech Stack**: Python · SQL · Power Automate · Power Apps · Power BI · Azure DevOps · GCP · React · TensorFlow · ETL pipeline design · Data modeling
 
 ---
 
-## Featured Projects
+**Software Engineer — Backend & Data** *(Jun 2023 – Feb 2024)*
 
-### [IT Asset Management Application — AI-Powered Platform](https://github.com/aybarineecm)
-**May 2024 – Dec 2024 | Product Designer & Lead Developer**
+- **Vessel Berth Optimization & Arrival Prediction** — identified idle berth time as a key operational pain point; built a real-time AIS data pipeline and berth scheduling model giving harbour masters live visibility into incoming vessel ETAs and reducing turnaround delays
+- **Container Dwell Time & Revenue Leakage Detection** — scoped and built an analytics platform tracking container overstay; anomaly detection flagged uncollected demurrage fees and automated weekly finance reports surfaced previously invisible revenue leakage
+- **Free Zones Compliance Reporting** — replaced a weeks-long manual monthly process with an automated pipeline aggregating import/export data across Kingston and Montego Bay Free Zones; achieved **100% audit traceability** for regulatory submissions
+- **Port Dues Revenue Reconciliation** — built a reconciliation pipeline matching vessel call records against invoices; surfaced systematic underbilling patterns and delivered exception dashboards enabling real-time resolution of discrepancies
+- Reduced data processing errors by **40%** through validation logic, reconciliation rules, and automated alerting across reporting pipelines
 
-Full lifecycle IT asset management platform built from scratch for the Port Authority of Jamaica, serving 50+ IT staff across all departments.
+**Tech Stack**: Python · SQL · MS SQL Server · Power Automate · Power BI · Kafka · PostgreSQL · ETL pipelines
+
+---
+
+**Junior Software Engineer — Backend & Data** *(Jun 2021 – Jun 2023)*
+
+- Built and automated daily, weekly, and monthly reporting pipelines using ETL patterns and Power Automate; cut manual reporting effort by **70%** across finance and operations
+- Designed and optimized MS SQL Server databases — schemas, indexes, ETL jobs — to support high-volume Free Zones transaction processing
+- Built backend APIs and data integrations in Python and SQL; implemented logging and observability enabling rapid incident diagnosis
+- Produced technical specifications, data dictionaries, and runbooks; partnered with analysts to translate business requirements into robust system designs
+
+**Tech Stack**: Python · SQL · MS SQL Server · Power Automate · System integration · Data quality frameworks
+
+---
+
+## Products Shipped
+
+### [IT Asset Management Platform — AI-Powered](https://github.com/aybarineecm)
+**May 2024 – Dec 2024 | Product Lead & Lead Developer**
+
+**Problem:** IT assets were tracked in disconnected spreadsheets — no visibility into assignment status, warranty timelines, or compliance, leading to lost assets, missed renewals, and audit failures.
+
+**Solution:** Led discovery with IT and operations to map the full asset lifecycle; defined product requirements for intelligent multi-level HOD approval workflows, AI anomaly detection, predictive warranty alerts, compliance risk scoring, and a self-serve reporting layer.
 
 **Key Features**:
-- **Asset Lifecycle Management**: End-to-end tracking from procurement through assignment, maintenance, and decommission — full visibility into every asset at every stage
-- **Intelligent Approval Workflow Engine**: Multi-level approval routing — employees submit requests, system automatically routes to the relevant Head of Department (HOD), with escalation logic, real-time status notifications, and full audit trail
-- **AI Features**: Anomaly detection flagging unusual asset usage patterns, intelligent categorization of assets on intake, predictive warranty expiration alerts, and automated compliance risk scoring
-- **Reporting & Analytics**: Utilization rates, assignment history, warranty timelines, compliance summaries — integrated with Power BI dashboards for IT leadership and audit teams
-- **RBAC & Compliance**: Role-based access controls ensuring each user sees only what their role permits; full audit trail for regulatory requirements
+- **Intelligent Approval Engine**: Employees submit requests → auto-routes to relevant HOD → escalation logic, real-time notifications, and full audit trail at every stage
+- **AI Features**: Anomaly detection on usage patterns, intelligent asset categorization, predictive warranty alerts, automated compliance risk scoring
+- **Reporting & Analytics**: Utilization rates, assignment history, warranty timelines, compliance summaries — integrated with Power BI dashboards for IT leadership
 
-**Tech Stack**: Python · React · JavaScript · MySQL · PostgreSQL · Power BI · Power Automate · RBAC · REST APIs
+**Outcome**: 50+ IT staff onboarded · 100% audit compliance · full asset lifecycle visibility · eliminated manual tracking overhead organization-wide
+
+**Tech Stack**: Python · React · MySQL · PostgreSQL · Power BI · Power Automate · RBAC · REST APIs
 
 ---
 
-### [Contract Management Portal — 400K Record Migration & Platform Build](https://github.com/aybarineecm/contract-management-platform)
-**May 2023 – Sep 2023 | Lead Data & Full-Stack Engineer**
+### [Contract Management Portal — 400K Record Migration](https://github.com/aybarineecm/contract-management-platform)
+**May 2023 – Sep 2023 | Product Lead & Lead Engineer**
 
-Full-stack enterprise platform consolidating 400,000+ legacy Excel contracts into a structured, searchable system with automated workflows and compliance reporting.
+**Problem:** Legal and Procurement managed 400,000+ contracts in Excel — no version control, no expiry alerts, no approval workflows, and no audit trail. Missed renewals were a recurring compliance risk.
 
-**Key Features**:
-- **Data Migration Pipeline**: ETL pipeline migrating 400K+ contracts with zero data loss; custom deduplication logic and validation rules achieving 99.2% data accuracy
-- **Contract Lifecycle Automation**: Creation workflows, digital signature collection, automated expiry reminders, multi-level approval routing, and assignee tracking
-- **Searchable Repository**: Indexed contract database enabling rapid retrieval, compliance auditing, and executive reporting
-- **Executive Alerting**: Pipelines surfacing high-risk contracts and upcoming expirations to leadership; Power BI dashboards tracking renewal rate, overdue contracts, and contract value at risk
+**Solution:** Defined product vision and requirements for a full contract lifecycle platform; oversaw ETL migration pipeline (zero data loss, 99.2% accuracy), digital signature collection, automated expiry reminders, multi-level approval routing, and a searchable contract repository.
 
-**Impact**:
-- Eliminated missed contract renewals across departments
-- 100% audit compliance with full traceability
-- 90% adoption among target users within 2 months
+**Outcome**: Eliminated missed contract renewals · 100% audit compliance · 90% user adoption within 2 months of launch
 
 **Tech Stack**: Python · MS SQL Server · Power BI · Power Automate · RBAC
+
+---
+
+### [Procurement Automation Platform](https://github.com/aybarineecm/procurement-platform)
+**Feb 2024 – Jul 2024 | Product Lead & Data Engineer**
+
+**Problem:** Procurement approvals required 5 days of manual routing, document chasing, and data entry — causing delays, errors, and zero audit traceability across Finance, Legal, and Procurement.
+
+**Solution:** Ran discovery with 3 departments to map the full approval workflow; defined AI-assisted automation requirements where AI handles validation, categorization, and routing while humans manage exceptions; built and shipped to production in under 6 months.
+
+**Outcome**: 96% reduction in manual work · **5 days → 8 hours** procurement cycle · **$500K+ operational savings** · 100% audit compliance
+
+**Tech Stack**: Python · FastAPI · Power Automate · Power Apps · MS SQL Server · Power BI
 
 ---
 
 ### [ML Inference Pipeline — Sign Language Recognition](https://github.com/aybarineecm/sign-language-recognition)
 **Feb 2022 – Aug 2022 | Lead ML Engineer**
 
-End-to-end real-time ML inference pipeline for sign language recognition across 180,000+ annotated images, optimized for on-device deployment.
+**Problem:** No accessible tool existed for real-time Jamaican Sign Language recognition, limiting accessibility for the deaf and hard-of-hearing community.
 
-**Key Features**:
-- **Data Pipeline**: End-to-end ingestion, preprocessing, and annotation QA combining ASL/JSL video datasets and a 180,000-image corpus; >95% landmark extraction accuracy and <3-pixel localization error
-- **Model Architecture**: Designed and benchmarked temporal classification models — LSTM, 1D-CNN, Transformer over keypoint sequences — plus an ensemble classifier for static and dynamic gestures
-- **On-Device Optimization**: Optimized for TensorFlow Lite deployment achieving low-latency real-time inference; data augmentation and multi-environment testing for robustness across lighting and camera variability
-- **Inference API**: Served results via FastAPI with per-frame confidence scores for instant user feedback
+**Solution:** Led end-to-end product and engineering delivery — defined data pipeline requirements, model evaluation criteria, and on-device deployment constraints; built a system processing **180,000+ annotated images** with real-time TensorFlow Lite inference.
 
-**Impact**:
-- >95% landmark extraction accuracy
-- Real-time inference enabling practical on-device deployment
-- Robust performance across varying real-world conditions
+**Outcome**: >95% landmark extraction accuracy · real-time on-device inference · robust performance across real-world lighting and camera conditions
 
-**Tech Stack**: Python · TensorFlow · TFLite · MediaPipe · FastAPI · PostgreSQL
+**Tech Stack**: Python · TensorFlow/TFLite · MediaPipe · FastAPI · PostgreSQL
 
 ---
 
-### [Procurement Automation Platform — Data Infrastructure](https://github.com/aybarineecm/procurement-platform)
-**Feb 2024 – Jul 2024 | Data & Platform Lead**
+## Core Competencies
 
-AI-assisted end-to-end procurement platform replacing fully manual workflows across Finance, Procurement, and Legal.
+**Product Strategy**: Roadmap Planning · OKR Definition · Feature Prioritization · Build-vs-Buy Analysis · Vision Setting
 
-**Key Features**:
-- **Data Pipeline Architecture**: ETL pipelines capturing procurement events (requisition, approval, vendor selection, payment) with full audit trails and data lineage
-- **AI-Assisted Automation**: AI handles validation, categorization, document routing, and anomaly detection; humans manage exceptions and high-stakes approvals
-- **Quality Framework**: Automated validation rules, reconciliation logic, and anomaly detection ensuring 100% data completeness, real-time timeliness, and 99.5% accuracy
-- **Observability**: Power BI dashboards tracking procurement KPIs and data quality metrics in real time
+**Discovery & Research**: Stakeholder Interviews · Requirements Gathering · User Research · Pain Point Mapping · Process Analysis
 
-**Impact**:
-- 96% reduction in manual procurement work
-- Procurement cycle cut from **5 days to 8 hours**
-- **$500K+** estimated annual operational savings
-- Zero audit gaps; full regulatory compliance
+**Delivery & Execution**: Agile / Scrum · Sprint Planning · Cross-Functional Leadership · UAT · Go-to-Market · Adoption Tracking
 
-**Tech Stack**: Python · FastAPI · Power Automate · Power Apps · MS SQL Server · Power BI
+**Data & Analytics**: KPI Definition · Power BI · DAX · A/B Testing · Data-Driven Decision Making · Executive Reporting
+
+**AI & Automation**: AI Product Design · Power Automate · Power Apps · Workflow Automation · Process Digitization
+
+**Technical Fluency**: Python · SQL · ETL Pipelines · Data Modeling · REST APIs · Azure DevOps · GCP · TensorFlow · CI/CD
+
+**Communication**: C-Suite Presentations · Board Reporting · Stakeholder Management · Technical Writing · Training Delivery
 
 ---
 
 ## Tech Advocacy & Community
 
-### TechTalkSayba | Founder & Tech Advocate | Jamaica
+### TechTalksWithAyba | Founder & Tech Advocate | Jamaica
 
-- **Founded TechTalkSayba**, a Jamaican tech education brand focused on making technology accessible in communities and spaces where digital literacy and AI awareness are limited — bridging the gap between cutting-edge tech and everyday people
-- **Invited speaker at the Scotiabank Women's Initiative (Jamaica)** — presented on digital readiness, technology adoption, and practical AI tools for women-led and women-owned businesses; part of a Scotiabank-hosted workshop series on e-commerce and digital transformation
-- Passionate about demystifying AI and data for non-technical audiences — running sessions, talks, and content that translate complex engineering concepts into real-world impact for communities across Jamaica
+- **Founded TechTalksWithAyba** — a Jamaican tech education brand making AI and data science accessible in communities where digital literacy is limited; running sessions, talks, and content translating complex technology into real-world impact
+- **Invited speaker at the Scotiabank Women's Initiative (Jamaica)** — presented on digital readiness, AI tools, and technology adoption for women-led and women-owned businesses at a Scotiabank-hosted workshop on e-commerce and digital transformation
+- **Youth IT & Computer Science Mentor at church** — volunteer tutor supporting young people with IT fundamentals, computer science, Spanish lessons, and academic homework; committed to expanding digital opportunity for the next generation in Jamaica
 - Driven by the belief that the most underrepresented communities deserve access to the tools shaping the future
 
 ---
 
 ## Currently Building
 
-Active projects expanding into the modern AI/data stack:
+Expanding hands-on depth in the modern data stack to complement product expertise:
 
 - **Modern Data Stack Pipeline** — Python ingestion → BigQuery → dbt → Looker Studio; Medallion architecture (Bronze/Silver/Gold)
   - *Stack*: Python · dbt · BigQuery · Airflow · GitHub Actions
-  - *Purpose*: End-to-end ELT pipeline with analytics-ready gold layer
 
 - **Real-Time Streaming Pipeline** — Kafka → PySpark Streaming → PostgreSQL with live monitoring dashboard
   - *Stack*: Apache Kafka · PySpark · PostgreSQL · Docker
-  - *Purpose*: High-volume event processing with real-time streaming analytics
 
-- **Data Quality & Observability Framework** — Automated null checks, schema drift detection, row-count anomaly alerting, and freshness SLAs
+- **Data Quality & Observability Framework** — Automated null checks, schema drift detection, row-count anomaly alerting, freshness SLAs
   - *Stack*: Python · Great Expectations · Airflow · Slack alerting
-  - *Purpose*: Production-grade pipeline health monitoring
 
 - **ML Feature Store** — Feature engineering pipeline for churn prediction; features versioned and served via Feast
   - *Stack*: Python · Feast · Scikit-learn · FastAPI · PostgreSQL
-  - *Purpose*: Reusable, versioned ML feature infrastructure
 
 - **Cloud Lakehouse** — Medallion architecture on GCS with Delta Lake; ad-hoc querying via DuckDB and Spark
   - *Stack*: GCP · Delta Lake · Apache Spark · DuckDB
-  - *Purpose*: Cost-effective scalable analytics foundation
-
----
-
-## Technical Skills
-
-**Languages**: Python · Java · JavaScript · PHP · SQL (MS SQL Server, PostgreSQL, MySQL)
-
-**Data & ML**: ETL/ELT Pipeline Design · Data Modeling · Data Warehousing · TensorFlow / TFLite · LSTM / CNN / Transformer · MediaPipe · Apache Kafka · PySpark · dbt · BigQuery · Feast · Great Expectations
-
-**Power Platform**: Power Automate · Power Apps · Power BI · DAX · Workflow Automation · Process Digitization
-
-**Backend & APIs**: REST API Development · Flask · FastAPI · System Integration · Microservice Patterns · Authentication / RBAC
-
-**Cloud & DevOps**: GCP · Azure DevOps · CI/CD · Jenkins · Docker · Git · GitHub Actions
-
-**Observability**: Monitoring & Alerting · Logging · Data Quality Frameworks · Airflow · Anomaly Detection
-
-**Frontend**: React · Angular
-
-**Practices**: Agile / Scrum · Code Review · Technical Documentation · System Design · SDLC
 
 ---
 
@@ -198,17 +191,17 @@ Active projects expanding into the modern AI/data stack:
 
 ---
 
-## Why I'm Transitioning to Product Management
+## Why Product Management
 
-After building data infrastructure and leading cross-functional AI initiatives, I've realized my maximum impact comes from thinking deeply about *what* to build alongside *how* to build it. I want to:
+After building data infrastructure and leading cross-functional AI initiatives, I've realized my maximum impact comes from thinking deeply about *what* to build alongside *how* to build it.
 
-1. **Work on data and AI platform problems** — Help teams move faster through better infrastructure, tooling, and systems
-2. **Own product strategy** — Define direction, make trade-offs, measure impact with real metrics
-3. **Bridge technical and business worlds** — Use engineering credibility to have honest conversations about what's feasible and what matters
-4. **Build things people trust** — Focus on reliability, data quality, and systems that hold up under pressure
+I've been doing product work for years — running discovery, owning roadmaps, aligning stakeholders, defining success metrics, and shipping products people actually use. I want to formalize that in roles where product strategy is the primary job, not something I do alongside engineering.
 
-I'm particularly interested in:
-- **Human data platforms**
-- **Research-enabling infrastructure**
-- **AI automation and process intelligence**
-- **Data Engineer**
+**What I'm focused on:**
+
+1. **AI & data products** — platforms that help teams make better decisions, move faster, and trust their data
+2. **Enterprise automation** — identifying where manual work is costing organizations the most and building the right solution
+3. **Research and infrastructure tooling** — products that make engineers, analysts, and researchers more productive
+4. **Accessibility and impact** — technology that reaches people who need it, not just those who already have it
+
+I bring something most PMs don't: I can read the code, review the architecture, and call out what's technically feasible in the room. That changes every stakeholder conversation.
