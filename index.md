@@ -18,9 +18,9 @@ Product Manager | AI & Data Products | Enterprise Automation | User-Centric Prob
 
 ## Professional Summary
 
-Product Manager passionate about listening to users, understanding their real problems, and building solutions that actually work. I've spent the past 2+ years doing exactly this: having conversations, mapping pain points, and shipping products that solve them.
+Transitioning to Product Manager because I am passionate about listening to users, understanding their real problems, and building solutions that actually work. I've spent the past 2+ years doing exactly this: having conversations, mapping pain points, and shipping products that solve them.
 
-I started as a software engineer. But I realized my maximum impact comes from the discovery phase—sitting with users, understanding what's keeping them stuck, and then architecting the right solution. I've run 30+ stakeholder interviews mapping workflows, identified $2M+ in operational savings opportunities, and shipped 4 major products that users actually adopted.
+I am a software engineer but I realized my maximum impact comes from the discovery phase—sitting with users, understanding what's keeping them stuck, and then architecting the right solution. I've run 30+ stakeholder interviews mapping workflows, identified $2M+ in operational savings opportunities, and shipped 4 major products that users actually adopted.
 
 What I bring to every conversation: technical depth (I can read code, challenge architecture, understand trade-offs) + genuine curiosity about what users need + obsession with shipping solutions that work.
 
