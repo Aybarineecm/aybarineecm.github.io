@@ -18,13 +18,13 @@ Product Manager | AI & Data Products | Enterprise Automation | User-Centric Prob
 
 ## Professional Summary
 
-Product Manager who believes that good products come from deeply understanding problems before designing solutions.
+A Software Engineer transitioning to Product Manager, who believes that good products come from deeply understanding problems before designing solutions.
 
 I spend time listening—to users frustrated by manual workflows, to teams blind to their own inefficiencies, to people who've given up because "that's just how it's always been done." I map their workflows. I ask questions until I understand not just *what* they're doing, but *why* they're doing it, what it's costing them, and what success would look like.
 
 Then I build something that works. Not just technically correct, but actually useful. I care about adoption, about measurable impact, about whether this actually moved the needle for the people who needed it.
 
-I started as a software engineer. That taught me to think about systems, edge cases, reliability, and technical trade-offs. Over the past 2+ years, I've moved into product ownership—running discovery, owning roadmaps, and shipping 4 products that users adopted. I've identified and prioritized $2M+ in operational savings opportunities. I've reduced approval cycles from 6 weeks to 2 weeks. I've built teams that shipped faster.
+As a software engineer, I learnt about systems, edge cases, reliability, and technical trade-offs. Over the past 2+ years, I've moved into product ownership—running discovery, owning roadmaps, and shipping 4 products that users adopted. I've identified and prioritized $2M+ in operational savings opportunities. I've reduced approval cycles from 6 weeks to 2 weeks. I've built teams that shipped faster.
 
 What makes me different: I can read code and challenge architecture. But more importantly, I genuinely care about getting it right. I think about data quality, error handling, edge cases, and monitoring because I know that reliability is how you earn trust. I think about user adoption not as a metric but as evidence that I solved a real problem.
 
@@ -34,7 +34,7 @@ What makes me different: I can read code and challenge architecture. But more im
 
 ### Port Authority of Jamaica — Kingston, Jamaica
 
-**Product Lead & Lead Software Engineer — AI, Data & Automation** *(Sept 2024 – Present)*
+**Lead Software Engineer — AI, Data & Automation** *(Sept 2024 – Present)*
 
 Leading a company-wide AI and automation initiative. The challenge: an organization where 50+ people across 15 departments are stuck in manual workflows, losing time and money to inefficiency, and nobody's connected the dots to see the full picture.
 
@@ -200,7 +200,7 @@ Whether it's port staff frustrated with 5-day cycles, IT teams managing assets i
 
 The best part? Seeing them use it. Watching adoption metrics that prove you solved something real. Seeing business impact: time saved, money saved, compliance achieved, problems gone.
 
-I started as a software engineer. That taught me to think about systems, trade-offs, edge cases, reliability. I learned that good engineering means thinking about what could go wrong.
+Being an excellent software engineer taught me to think about systems, trade-offs, edge cases, reliability. I learned that good engineering means thinking about what could go wrong.
 
 Transitioning to PM, I realized: the same rigor applies to problems. Most people rush to solutions. I slow down. I listen. I ask questions until I understand not just the symptom but the root cause. Then I design something that handles the edges, not just the happy path.
 
