@@ -146,11 +146,7 @@ Started as an intern; transitioned to full-time. Focused on listening to operati
 
 ## Why Product Management
 
-I love the part of tech where you listen to people, understand what's actually keeping them stuck, and build a solution.
-
-That's it. That's what drives me.
-
-Whether it's port staff frustrated with 5-day procurement cycles, IT teams managing assets in spreadsheets, or Jamaicans trying to understand AI — I want to understand their problem deeply, then ship something that actually solves it.
+I love the part of tech where you listen to people, understand what's actually keeping them stuck, and build a solution. Whether it's port staff frustrated with 5-day procurement cycles, IT teams managing assets in spreadsheets, or Jamaicans trying to understand AI — I want to understand their problem deeply, then ship something that actually solves it.
 
 The best part? Seeing them use it. Seeing the adoption metrics that prove you solved something real. Seeing the business impact: time saved, money saved, compliance achieved.
 
