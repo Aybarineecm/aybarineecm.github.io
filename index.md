@@ -35,7 +35,7 @@ Over the past 3+ years at the Port Authority of Jamaica, I've grown from Softwar
 
 ### Port Authority of Jamaica — Kingston, Jamaica
 
-#### Junior AI Product Manager — Fulltime · *Jan 2026 – Present*
+####  Product Manager — Fulltime · *Aug 2025 – Present*
 
 Owning the product roadmap for a company-wide AI and automation platform. The challenge: an organization where 15 departments, 100+ users, and a fragmented data landscape need to be pulled into a single, reliable, AI-augmented system — without slowing anyone down.
 
@@ -53,7 +53,7 @@ Owning the product roadmap for a company-wide AI and automation platform. The ch
 
 ---
 
-#### Junior AI Product Manager — Contract · *Jan 2025 – Dec 2025*
+#### Product Manager — Contract · *Aug 2024 – Aug 2025*
 
 Ran product discovery, delivery, and adoption across the highest-impact operational products at the Port Authority — each one a human-in-the-loop system serving a specific department under real cost pressure.
 
@@ -77,7 +77,7 @@ Ran product discovery, delivery, and adoption across the highest-impact operatio
 
 ---
 
-#### AI Product Manager — Internship · *Jan 2024 – Dec 2024*
+#### AI Product Manager — Internship · *Aug 2023 – Aug 2024*
 
 Contributed to product strategy and shipping across the Port Authority's earliest AI automation initiatives. This is where I learned to lead discovery and translate research needs into products.
 
@@ -91,7 +91,7 @@ Contributed to product strategy and shipping across the Port Authority's earlies
 
 ---
 
-#### Software Engineer — Backend & Data (Internship) · *Jan 2023 – Sep 2023*
+#### Software Engineer — Backend & Data (Internship) · *Jan 2023 – Aug 2023*
 
 First professional role. Built the backend and data foundations of the products I would later own as PM. Learned that the best solutions come from understanding problems at their source.
 
