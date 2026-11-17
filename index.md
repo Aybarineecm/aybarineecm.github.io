@@ -5,7 +5,7 @@ title: Home
 
 # Aybarinee Campbell Mendez
 
-**Product Manager** | Human Data Platforms · AI/ML Tooling · Human-in-the-Loop Systems · Enterprise Automation
+**Software & Data Engineer · AI Lead** | Web Systems · Data Pipelines · Workflow Automation · Airtable · Make · Zapier
 
 ## Contact
 
@@ -13,252 +13,239 @@ title: Home
 - **Phone**: (876) 476-2302
 - **LinkedIn**: [linkedin.com/in/aybarinee](https://www.linkedin.com/in/aybarinee)
 - **GitHub**: [github.com/aybarineecm](https://github.com/aybarineecm)
-- **Location**: Kingston, Jamaica | Remote / Relocation-open · Visa sponsorship welcome
+- **Location**: Kingston, Jamaica (EST, UTC-5) | Remote · Open to relocation
 
-*Founder, TechTalksWithAyba · Invited Speaker, Scotiabank Women's Initiative Jamaica*
+*Founder, OpsCore Tech · Founder, TechTalksWithAyba · Invited Speaker, Scotiabank Women's Initiative Jamaica*
 
 ---
 
-## Professional Summary
+## About Me
 
-A Product Manager with a Software Engineering foundation, focused on **human-in-the-loop AI systems, annotation pipelines, and data quality infrastructure**. I believe the best products come from deeply understanding problems before designing solutions — and the best AI products come from taking humans seriously as the most important part of the pipeline.
+I'm a Software and Data Engineer who builds the systems organizations run on, and I lead all AI work at the Port Authority of Jamaica. For 3+ years at the Port Authority of Jamaica (PAJ), I've designed and built organization-wide web portals, data pipelines and workflow automation used by **15 departments and 250+ staff**.
 
-I spend time listening. To users frustrated by manual workflows. To domain experts blind to their own inefficiencies. To reviewers stuck doing work that AI could handle. I map their workflows, ask questions until I understand not just *what* they're doing but *why* it's costing them, and design tooling that respects both the machine's speed and the human's judgment.
+I start by listening. I sit with the people doing the work, map how things actually move today, and find where requests get lost, where time is wasted and where leadership can't see what's happening. Then I build a system that fixes it, and I stay with it until people actually use it.
 
-Over the past 3+ years at the Port Authority of Jamaica, I've grown from Software Engineer intern to owning the roadmap for a **Data, AI & Automation platform serving 15 departments and 100+ internal stakeholders**. I've shipped 4 human-in-the-loop AI products that users actually adopted. I've prioritized **$2M+ in operational impact**. I've cut approval cycles from 5 days to 8 hours, migrated 400,000+ records with zero data loss, and designed an annotation pipeline over a 180,000-image corpus.
+Some of what that has looked like:
 
-**What makes me different**: I can read code and challenge architecture. But more importantly, I care about reliability, data quality, edge cases, and adoption — because that's how you earn trust in production AI. I'm equally comfortable in a research/engineering standup and in a session with non-technical users. I believe advanced AI could transform the world, and I'm committed to helping that transformation go well.
+- An **e-Procurement Portal** the entire PAJ now uses, which replaced a paper process and cut the procurement cycle by **93%** (5 days to 8 hours)
+- A **Contract Management Portal** that runs every PAJ contract, after migrating **400,000+ records** from Excel with zero data loss
+- An **IT Asset Management web app** that cut request time by **75%**
+
+Outside PAJ, I founded **OpsCore Tech**, where I build operational systems for small businesses, and **TechTalksWithAyba**, where I make technology practical for Jamaican entrepreneurs. I'm comfortable working in code or in tools like Airtable, Make and Zapier, depending on what the job needs.
 
 ---
 
 ## Work Experience
 
-### Port Authority of Jamaica — Kingston, Jamaica
+### OpsCore Tech · Remote
 
-####  Product Manager — Fulltime · *Aug 2025 – Present*
+#### Founder & Systems Engineer · *2026 to Present*
 
-Owning the product roadmap for a company-wide AI and automation platform. The challenge: an organization where 15 departments, 100+ users, and a fragmented data landscape need to be pulled into a single, reliable, AI-augmented system — without slowing anyone down.
+OpsCore Tech helps small businesses and independent practices find where time and money leak, then closes the gaps with automation, data and custom software. Enterprise-level work, built for how small teams run.
 
-- **Product Roadmap Ownership**: Sequenced delivery of 3 fully-automated departments in the first 8 months, with a 12-department pipeline in progress. Projected **$2M+ in cumulative operational impact** upon full rollout.
-- **Vessel Traffic Digital Command Center v1**: Shipped a real-time harbour-master product consolidating AIS tracking, berth availability, and arrival predictions. Reduced average vessel turnaround by **18%**; berth utilization improved by **22%** at Kingston Container Terminal.
-- **Human-in-the-Loop Product Ops**: Established platform-wide standards (PRD templates, review workflows, quality gates, observability) adopted by 100% of projects. Reduced post-deployment defects by **45%** and cut onboarding for new engineers by **50%**.
-- **Discovery Program**: Ran 30+ requirements sessions with department heads. Identified and prioritized 50+ automation opportunities via RICE scoring. Converted the top 15% into shipped features.
-- **Cross-Functional Delivery**: Led teams of 8+ across engineering, legal, finance, procurement, and operations. Maintained **95% on-time delivery** across major milestones while managing competing priorities from 5+ department heads.
-- **Executive Storytelling**: Presented product strategy and platform ROI directly to C-suite and Board. Secured executive approval for 3 major infrastructure investments. Reduced time-to-sign-off on technical proposals from 6 weeks to under 2 weeks.
-- **Build-vs-Buy Judgment**: Led 6 major tooling evaluations. Cost-benefit analyses saved an estimated **$150K+ annually** through strategic use of open-source and existing licensing.
-- **Mentorship & Team Growth**: Mentored 4 junior engineers through code reviews and product-thinking sessions. Team velocity up **30%** over 6 months. 2 engineers promoted within 12 months.
-- **Incident Response & Reliability**: Reduced mean time to resolution for platform incidents by **60%** — from 4 hours to under 90 minutes — by introducing observability standards, runbooks, and escalation protocols.
+- **Client Systems**: Build CRMs and lead tracking, intake and onboarding flows, order tracking, automated notifications and reporting dashboards in Airtable, Make, Zapier and custom code.
+- **Structured Delivery**: Every engagement follows the same process: lead qualification, discovery call, vision document, statement of work, technical design doc, weekly client updates and a post-launch success report.
+- **Running on Its Own Systems**: The business runs on its own automated stack, with ClickUp as the hub for the sales pipeline, client projects, SOPs and automations.
+- **Hiring**: Designed a structured technical hiring process with test questions and model answers so the team can grow without lowering the bar.
 
-**Tech Stack**: Python · SQL · Microsoft Fabric (Lakehouse, Data Factory, PySpark, Delta Lake) · MS SQL Server · Power Automate · Power Apps · Power BI · Azure DevOps · GCP · React · TensorFlow · CI/CD
+**Tools**: Airtable · Make · Zapier · ClickUp · Python · SQL · REST APIs
 
 ---
 
-#### Product Manager — Contract · *Aug 2024 – Aug 2025*
+### Port Authority of Jamaica · Kingston, Jamaica
 
-Ran product discovery, delivery, and adoption across the highest-impact operational products at the Port Authority — each one a human-in-the-loop system serving a specific department under real cost pressure.
+#### Systems Analyst / Programmer (Full-time) · *Jul 2025 to Present*
 
-- **Vessel Berth Optimization Product**: Led discovery with harbour masters across 3 shifts (12+ interviews). Shipped a real-time AIS-driven pipeline predicting vessel ETAs, feeding a berth-scheduling model. Reduced average idle berth time by **25%**, improved daily turnaround for 40+ vessels. Became the primary decision-support tool for harbour operations.
+I lead all AI work at PAJ and own the company-wide initiative to make every department more efficient. I also engineer on the Montego Bay Free Zone data warehouse and maintain the systems that pull 15 departments and a fragmented data landscape into one reliable platform.
 
-- **Container Dwell Time & Revenue Leakage Recovery**: Framed and prioritized a previously invisible revenue-leakage problem — containers overstaying past free storage without demurrage capture. Designed anomaly detection surfacing at-risk containers 5+ days earlier than the previous manual process. Automated finance reports recovered an estimated **$450K/year** in previously uncollected demurrage.
+- **AI Lead**: Own every AI initiative at PAJ, from identifying use cases to designing, building and rolling out solutions. If it involves AI, it runs through me.
+- **Company-Wide Efficiency Initiative (Owner & Lead)**: Meet with each department to understand its processes and pain points, then propose and build technology solutions. Fully digitized 3 departments in the first 8 months, with 12 more in progress and a prioritized backlog of 50+ projects.
+- **Montego Bay Free Zone Monitoring System**: Engineer on a large data warehouse that brings together data on every building, property and operation in the Free Zone into one system for monitoring and reporting.
+- **Engineering Standards**: Established engineering standards adopted across 100% of data and automation projects: code review processes, documentation requirements and data modelling conventions. Reduced post-deployment bugs by **45%** and onboarding time for new engineers by **50%**.
+- **Reliability**: Added monitoring, alerting, runbooks and escalation protocols across 12 active platforms. Cut incident resolution time by **60%**, from 4 hours to under 90 minutes.
+- **Performance**: Optimized SQL Server queries, indexes and stored procedures for a **35%** performance gain.
+- **Mentorship**: Mentor 4 junior engineers through code reviews and pair programming.
+- **Technical Evaluations**: Led 6 build vs. buy evaluations, favouring open-source tools and existing licensing where they fit.
 
-- **Free Zones Compliance Reporting Automation**: Replaced a 3-week manual monthly reporting process with an automated pipeline aggregating import/export data across Kingston Free Zone and Montego Bay Free Zone operators. Cut regulatory reporting effort by **90%** for the finance team, achieved 100% audit traceability, eliminated the primary bottleneck in monthly close.
-
-- **Port Dues Revenue Reconciliation Engine**: Discovered systematic underbilling patterns previously invisible to finance. Engineered a reconciliation pipeline matching vessel call records against port dues invoices with real-time exception dashboards. Recovered an estimated **$300K/year** in underbilled port dues within 6 months of launch.
-
-- **Contract Management Platform — Human-in-the-Loop Migration at Scale**: Migrated **400,000+ contracts** from legacy Excel into a structured relational database. Custom review interface for legal: conservative deduplication logic routed ambiguous cases to a queued review workflow rather than auto-merging. **Zero data loss · 99.2% post-migration accuracy · 100% adoption by legal + procurement within 4 months.** Expiring-contract miss rate dropped from 12% to under 1%.
-
-- **AI-Powered IT Asset Management Platform**: Full-lifecycle product (procurement → assignment → maintenance → decommission) serving 50+ IT staff. Intelligent multi-level HOD approval workflows, AI anomaly detection, predictive warranty alerts, compliance risk scoring. Asset-request cycle time reduced by **75%**.
-
-- **AI Adoption Training Program**: Delivered curriculum for 50+ non-technical staff. Surveyed pain points, designed workflow-specific training, measured post-training adoption increase of **40%** over 3 months. Directly analogous to onboarding external annotators and vendors to new tooling.
-
-- **Executive Analytics**: Built 20+ Power BI dashboards tracking product KPIs and adoption; reduced manual reporting effort by **70%**.
-
-**Tech Stack**: Python · Kafka · PostgreSQL · MS SQL Server · Power BI · Power Automate · Power Apps · AIS API · ETL pipelines · Anomaly detection
+**Tech Stack**: Python · SQL · MS SQL Server · Microsoft Fabric · Power Automate · Power Apps · Power BI · Azure DevOps · GCP · React · CI/CD
 
 ---
 
-#### AI Product Manager — Internship · *Aug 2023 – Aug 2024*
+#### Systems Analyst / Programmer (Contract) · *Sep 2023 to Jun 2025*
 
-Contributed to product strategy and shipping across the Port Authority's earliest AI automation initiatives. This is where I learned to lead discovery and translate research needs into products.
+Built the core business systems PAJ runs on today, while completing my B.Sc. in Computer Science (graduated Feb 2025).
 
-- **Owned Product Discovery for the Procurement Automation Platform** — conducted 15+ stakeholder interviews across procurement, finance, and legal to map the paper-based workflow. Identified the 3 highest-friction handoffs. Informed the product design that later delivered **96% reduction in manual work · 5 days → 8 hours cycle time · $500K+ annual savings · 100% audit compliance.**
-- **Owned the Automated Reporting Product Suite** — shipped daily/weekly/monthly reporting pipelines cutting manual reporting effort by **70%** across finance and operations.
-- **Contributed to Roadmap Prioritization** — shadowed senior engineering leadership on the Data, AI & Automation platform. Wrote PRDs. Ran user research sessions. Learned the discovery → spec → delivery cycle firsthand.
-- **Data Quality**: Reduced data processing errors by **40%** through systematic validation logic, automated reconciliation rules, and error-alerting workflows — surfaced 200+ previously undetected data quality issues in the first quarter alone.
-- **Product Specifications**: Produced technical specs, data dictionaries, and runbooks partnered with analysts to translate business requirements into robust product designs.
+- **e-Procurement Portal**: Built the organization-wide web portal for procurement requisitions. *(See Featured Systems below.)*
+- **Contract Management Portal**: Built the central system for every PAJ contract and migrated 400,000+ legacy records into it. *(See Featured Systems below.)*
+- **IT Asset Management Web App**: Designed and built a full-lifecycle asset system for 50+ IT staff. *(See Featured Systems below.)*
+- **Vessel Berth Optimization**: Interviewed harbour masters across shifts, then built a real-time pipeline using AIS vessel tracking data to predict arrival times and feed berth scheduling. Reduced idle berth time by **25%** for 40+ vessels a day.
+- **Container Dwell Time Tracking**: Built tracking and anomaly detection that flags containers at risk of uncollected storage fees 5+ days earlier than the manual process, with automated weekly reports to finance.
+- **Port Dues Reconciliation**: Built a pipeline matching vessel call records against port dues invoices, surfacing billing discrepancies on a live exceptions dashboard for finance.
+- **Free Zones Compliance Reporting**: Replaced a 3-week manual monthly process with an automated pipeline across the Kingston and Montego Bay Free Zones. Cut reporting effort by **90%** with 100% audit traceability.
+- **Dashboards**: Built 20+ Power BI dashboards that cut manual reporting by **70%**.
+- **Training**: Trained 50+ non-technical staff on new tools and workflows. Adoption rose **40%** in 3 months.
 
-**Tech Stack**: Python · MS SQL Server · Power Automate · Power BI · ETL patterns · Requirements gathering
-
----
-
-#### Software Engineer — Backend & Data (Internship) · *Jan 2023 – Aug 2023*
-
-First professional role. Built the backend and data foundations of the products I would later own as PM. Learned that the best solutions come from understanding problems at their source.
-
-- **Backend APIs & Data Integrations**: Built and maintained Python + SQL services powering high-volume Free Zones transaction processing. Implemented logging and observability enabling rapid incident diagnosis.
-- **Automated Reporting Pipelines**: Cut manual reporting effort by **70%** across finance and operations via ETL patterns and Power Automate.
-- **Data Quality Foundations**: Reduced data processing errors by **40%** through systematic validation and reconciliation logic.
-- **MS SQL Server Optimization**: Designed schemas, indexes, and ETL jobs supporting reliable high-volume transaction processing.
-- **First Exposure to Product Thinking**: Partnered with senior engineers and analysts to translate business requirements into technical specs. Wrote technical documentation that enabled other engineers to onboard 3x faster.
-
-**Tech Stack**: Python · SQL · MS SQL Server · Power Automate · Power BI · ETL pipelines
+**Tech Stack**: Python · FastAPI · Kafka · PostgreSQL · MS SQL Server · MySQL · React · Power BI · Power Automate · Power Apps · AIS API
 
 ---
 
-## Products Shipped
+#### Software Engineer Intern, Backend & Data · *Jun 2023 to Sep 2023*
 
-### AI-Assisted Procurement Automation Platform
+My first professional role, which turned into a contract offer at the end of the internship.
 
-***Feb 2024 – Jul 2024 · Product Lead & Delivery Engineer***
+- **Backend APIs & Data Pipelines**: Built and maintained Python and SQL services for high-volume Free Zones transaction processing, with logging and monitoring for fast issue diagnosis.
+- **Automated Reporting**: Automated daily, weekly and monthly reports, cutting manual reporting effort by **70%** across finance and operations.
+- **Data Quality**: Reduced data processing errors by **40%** with validation, reconciliation and error-alerting rules.
+- **Documentation**: Wrote technical specs, data dictionaries and runbooks that helped other engineers get up to speed **3x faster**.
 
-**The Problem**: Finance, Legal, and Procurement stuck in 5-day approval cycles. Manual routing, document chasing, data entry, delays, errors, zero audit trail. Everyone frustrated, everyone waiting. For a large organization, a 5-day procurement cycle isn't just inefficient — it's expensive, slows the business, creates decision fatigue, and introduces errors.
+**Tech Stack**: Python · SQL · MS SQL Server · Power Automate · Power BI
 
-**Why It Mattered**: This was blocking every other department. Every contract, every purchase order, every capital investment ran through this bottleneck.
+---
 
-**What I Built**:
-- **Human-in-the-loop AI product** where AI handles the 96% of routine cases and humans handle exceptions and high-stakes approvals
-- AI classifiers for validation, categorization, and document routing
-- Anomaly detection surfacing unusual requests to human reviewers
-- Real-time visibility dashboards for procurement KPIs
-- Exception dashboards so reviewers see only what needs human attention
-- Full audit trail on every decision — every routing, approval, override
+### TechTalksWithAyba · Instagram & TikTok
 
-**Outcome**: **96% reduction in manual work** · **5 days → 8 hours** cycle time · **$500K+ annual savings** · **100% audit compliance** · 100% adoption by procurement staff within 6 weeks of launch.
+#### Founder & Tech Content Creator · *Apr 2026 to Present*
 
-**What I Learned**: The best AI automation isn't about removing humans. It's about giving them the information they need to make good decisions fast — and freeing them from the routine work so their judgment is available for the cases that need it.
+A tech education brand positioned as **the tech voice for Jamaica**. I find the technology gaps holding Jamaicans back and turn them into practical, local solutions.
+
+- **Audience**: Entrepreneurs, content creators and everyday people, mostly Jamaica-based women aged 25 to 44.
+- **Closing Tech Gaps**: Research where people get stuck (online payments, e-commerce, digital tools, AI, everyday tech), test the options available locally, and script, film and edit content that walks people through what actually works in Jamaica.
+- **Example**: Jamaican Shopify sellers struggle to find payment gateways that work locally. *Payment Options for Jamaican Shopify Sellers* compares PayPal, Wise, Stripe, Payoneer, 2Checkout, Tilopay and FAC on access, fees and long-term fit. *Choosing the Right E-Commerce Platform for Jamaica* compares Shopify, WooCommerce, Wix, Squarespace and BigCommerce.
+- **Speaking**: Invited speaker at the Scotiabank Women's Initiative (Jamaica). I presented on AI tools, digital readiness and technology adoption for women-led businesses at a Scotiabank-hosted workshop on e-commerce and digital transformation.
+
+---
+
+## Featured Systems
+
+### e-Procurement Portal
+
+***Port Authority of Jamaica · Lead Developer***
+
+**The Problem**: Procurement ran on paper. Requisitions got lost moving between departments, nobody could tell where their approval was stuck, and leadership, including the CEO, had no view of what was being requested or bought.
+
+**What I Built**: A web portal the entire organization uses to create, submit, track and approve procurement requisitions.
+
+- One regulated process for every requisition, with automatic validation and categorization
+- Multi-level approval routing, with staff only stepping in for exceptions and high-value approvals
+- Anomaly detection that flags unusual requests
+- Status tracking so every department can see exactly where its approvals stand
+- Live dashboards that give the CEO and executives real-time visibility for faster, better decisions
+- A full audit trail on every routing, approval and override
+
+**Outcome**: Used by **every department** · cycle time cut **93%** (5 days to 8 hours) · **96%** less manual work · **100%** audit compliance · recognized by PAJ for leading this product.
 
 **Tech Stack**: Python · FastAPI · Power Automate · Power Apps · MS SQL Server · Power BI
 
 ---
 
-### Contract Management Platform — 400K Record Migration with Human Review
+### Contract Management Portal
 
-***May 2023 – Sep 2023 · Product Lead & Lead Engineer***
+***Port Authority of Jamaica · Lead Data & Full-Stack Engineer***
 
-**The Problem**: Legal and Procurement managing **400,000+ contracts** in Excel. No version control. No expiry alerts. No approval workflows. No audit trail. Missed renewals happening regularly. Compliance risk everyone could see but nobody could solve.
+**The Problem**: 400,000+ contracts lived in scattered Excel files, with no approval workflow, no expiry alerts, no audit trail and no single source of truth.
 
-**Why It Mattered**: For a large organization, contract management at scale without automation is a liability. Every missed renewal is legal and financial exposure. Every ambiguous version is regulatory risk.
+**What I Built**: The central system that manages every PAJ contract through its full lifecycle.
 
-**What I Built**:
-- Full contract lifecycle platform with ETL migration
-- **Human-in-the-loop review queue**: I deliberately built deduplication logic to be conservative — high-confidence fuzzy matches routed to a legal review workflow with structured decision interfaces rather than auto-merging. This is the core primitive of any human data platform: automate the easy cases, route the hard ones to human experts.
-- Digital signatures and multi-level approval routing
-- Automated expiry reminders
-- Searchable repository with permissions-aware access
+- ETL migration of 400,000+ legacy contracts into a relational database
+- Careful deduplication that flagged uncertain matches for legal review instead of merging them automatically
+- Contract creation, multi-level approval routing and digital signature collection
+- Assignee tracking and automatic expiry and renewal reminders
+- A searchable repository with role-based access
+- Executive alerts and dashboards for renewals, overdue contracts and value at risk
 
-**Outcome**: **Zero data loss** · **99.2% post-migration accuracy** · **100% adoption by legal + procurement within 4 months** · expiring-contract miss rate dropped from 12% to under 1%.
+**Outcome**: **Zero data loss** · **99.2%** accuracy after migration · **100%** adoption by legal and procurement within 4 months.
 
-**What I Learned**: Migration at scale is a data quality problem, not just an engineering problem. 99.2% means you built for edge cases. Zero data loss means you built for reliability. And giving experts a well-designed review interface for the ambiguous cases is what makes the whole thing trustworthy.
-
-**Tech Stack**: MS SQL Server · Python · Power BI · Power Automate · RBAC · custom review interface
+**Tech Stack**: MS SQL Server · Python · Power BI · Power Automate · RBAC · audit trails
 
 ---
 
-### AI-Powered IT Asset Management Platform
+### IT Asset Management Web App
 
-***May 2024 – Dec 2024 · Product Owner & Lead Developer***
+***Port Authority of Jamaica · Designer & Lead Developer***
 
-**The Problem**: IT staff managing assets in disconnected spreadsheets. No visibility into who had what, warranty dates, or compliance status. Assets getting lost. Renewals getting missed. Audits at risk.
+**The Problem**: IT tracked assets in disconnected spreadsheets, with no clear view of who had what, when warranties expired or whether the organization was compliant.
 
-**Why It Mattered**: Compliance risk, financial leak, chronic stress for the IT team.
+**What I Built**: A web application that manages every IT asset from procurement to decommission.
 
-**What I Built**:
-- Intelligent multi-level HOD approval workflow (not rubber-stamping — intelligent routing based on request type and risk)
-- AI anomaly detection on usage patterns
-- Predictive warranty alerts
-- Automated compliance risk scoring
-- Self-serve Power BI dashboards for IT leadership
+- Asset requests submitted in the app and routed automatically to the right Head of Department
+- Escalation logic, real-time notifications and a full audit trail
+- Anomaly detection, automatic categorization and predictive warranty alerts
+- Compliance risk scoring
+- Reports on utilization, assignment history and warranties for IT leadership
 
-**Outcome**: **50+ IT staff onboarded · 100% audit compliance · 75% reduction in asset-request cycle time · IT team went from firefighting to proactive management.**
+**Outcome**: Serves **50+ IT staff** · request cycle time cut **75%**.
 
-**What I Learned**: The right tool isn't just about automation. It's about giving people visibility, confidence, and control.
-
-**Tech Stack**: Python · React · MySQL · PostgreSQL · Power BI · Power Automate · RBAC · REST APIs
+**Tech Stack**: Python · React · JavaScript · REST APIs · MySQL · PostgreSQL · RBAC · Power BI · Power Automate
 
 ---
 
-### ML Inference Product — Sign Language Recognition
+### FluentHands: Jamaican Sign Language Learning App
 
-***Feb 2022 – Aug 2022 · Lead ML Engineer***
+***UWI COMP3901 Group Project · Team of 4***
 
-**The Problem**: No accessible tool for real-time sign language recognition. The deaf and hard-of-hearing community couldn't use mainstream speech interfaces. A real barrier to accessibility and inclusion.
+**The Problem**: Affordable Jamaican Sign Language (JSL) classes are hard to find, which makes it hard for hearing people to learn to communicate with the deaf community in Jamaica.
 
-**What I Built**:
-- **End-to-end annotation pipeline over a 180,000-image corpus** combining ASL and JSL sources
-- Landmark-extraction pipeline and QA workflows targeting >95% accuracy and <3-pixel localization error
-- Benchmarked multiple temporal classification models (LSTM, 1D-CNN, Transformer over keypoint sequences)
-- Ensemble classifier for static + dynamic gestures
-- TensorFlow Lite optimization for real-time on-device inference
+**What We Built**: A Duolingo-style app that teaches JSL with real-time feedback from the camera.
 
-**Outcome**: **>95% landmark extraction accuracy · real-time on-device inference · practical accessibility solution.**
+- MediaPipe hand tracking feeding TensorFlow models that recognize and score each sign as the user performs it
+- An ML data pipeline built on a 180,000+ image annotated dataset (21 hand landmarks, 41 static and 95 dynamic gestures), with quality targets of over 95% landmark accuracy and under 3-pixel error
+- CNN, LSTM and Transformer models benchmarked for static and dynamic gestures, optimized for TensorFlow Lite
+- A curriculum covering the alphabet, fingerspelling, numbers, greetings and polite words
+- A backend and database for user profiles, progress tracking and a question bank sorted by topic, difficulty and learning style
+- Gamification with lives, gems, an Elo leaderboard and progress bars
 
-**What I Learned**: Some problems aren't about business metrics — they're about access and inclusion. And end-to-end ownership of an ML product (data collection → annotation quality → model → inference → deployment) teaches you what really matters at each layer.
-
-**Tech Stack**: Python · TensorFlow / TFLite · MediaPipe · FastAPI · PostgreSQL · annotation JSON
+**Tech Stack**: Python · TensorFlow / TFLite · MediaPipe · FastAPI · PostgreSQL
 
 ---
 
-## Core Competencies
+### Fresh Catch Order Tracking System
 
-**Product Leadership**
-Roadmap Ownership · Prioritization (RICE, MoSCoW) · PRD Authoring · OKRs · KPI Definition · Vision Setting · Build-vs-Buy Analysis · Cross-Functional Delivery · Founder Mentality
+***Airtable · WhatsApp***
 
-**Human Data & Annotation Systems**
-Annotation Platform Design · Labeling Interfaces · Human-in-the-Loop Pipelines · Data Collection Tooling · Quality Review Workflows · Vendor/Annotator Coordination · Data Quality Scoring · Audit Lineage
-
-**Product Discovery**
-Stakeholder Interviews (30+ per year) · JTBD (Jobs-to-be-Done) · Pain Point Mapping · Requirements Definition · Process Mapping · Active Listening · Problem Scoping
-
-**Cross-Functional Leadership**
-Agile/Scrum · Sprint Planning · Executive Alignment · Cross-Team Coordination · UAT · Mentorship · Change Management · Technical Decision-Making
-
-**Data & Analytics**
-KPI Definition & Tracking · Power BI · DAX · A/B Testing Design · Data-Driven Decision Making · Executive Reporting · Statistical Analysis · Great Expectations
-
-**AI Product Judgment**
-When to use humans vs models · Where to invest in reusable infrastructure · Balancing quality, speed, and cost · Data-driven decisions · Anomaly detection · Model evaluation basics · Prompt engineering fundamentals
-
-**Technical Fluency (Engineer's Advantage)**
-Python · SQL · ETL/ELT Pipelines · Data Modeling · System Architecture · REST APIs · Microsoft Fabric (Lakehouse, Data Factory, PySpark, Delta Lake) · TensorFlow / TFLite · MediaPipe · FastAPI · Docker · CI/CD · Database Design · Data Quality Frameworks
-
-**Product Tools**
-Jira · Confluence · Figma · Miro · Notion · GitHub · Google Analytics · Power BI · Power Apps · Power Automate
+An order system for a St. Elizabeth seafood business that tracks pre-orders, customers, product categories, and pickup or delivery for Kingston orders, with customer updates sent over WhatsApp.
 
 ---
 
-## Tech Advocacy & Community
+## Skills
 
-### TechTalksWithAyba · Founder & Tech Advocate · Jamaica
+**Programming Languages**
+Python · SQL · Java · JavaScript · PHP
 
-- **Founded TechTalksWithAyba** — a Jamaican tech education brand making AI accessible in underserved communities. Grew from 0 to 500+ engaged followers in year one. Free educational content on AI and data literacy.
-- **Invited Speaker, Scotiabank Women's Initiative (Jamaica)** — presented on digital readiness, AI tools, and technology adoption for women-led businesses at a Scotiabank-hosted workshop on e-commerce and digital transformation.
-- **Youth IT & Computer Science Mentor** — volunteer tutor supporting young people building tech careers.
-- **Belief**: underrepresented communities deserve access to the tools shaping the future. Demonstrates my ability to translate deeply technical concepts to non-technical audiences — the exact skill required to bridge researchers and crowd workers in any human-data-platform role.
+**Frameworks & Libraries**
+FastAPI · Flask · React · Angular · TensorFlow / TFLite · MediaPipe · Scikit-learn
+
+**Automation & No-Code**
+Airtable · Make · Zapier · Power Automate · Power Apps · ClickUp · REST APIs
+
+**Data Engineering**
+ETL/ELT Pipelines · Data Modelling · MS SQL Server · PostgreSQL · MySQL · Microsoft Fabric (Lakehouse, Data Factory, PySpark, Delta Lake) · Kafka · Power BI · DAX
+
+**Cloud & DevOps**
+GCP · Azure DevOps · Docker · Git · GitHub Actions · Jenkins · CI/CD · Monitoring & Alerting
+
+**How I Work**
+Requirements Gathering · Process Mapping · System Design · Technical Writing · Stakeholder Communication · Training Non-Technical Users · Mentorship
+
+**Languages**
+English · Spanish · Miskito (fluent)
 
 ---
 
-## Why Product Management
+## How I Work
 
-I love the part of tech where you listen to people, understand what's actually keeping them stuck, and build something that solves it.
+I love the part of tech where you listen to people, understand what's actually keeping them stuck, and build something that fixes it.
 
-That's it. That drives me.
+Whether it's procurement requests getting lost on paper, IT teams managing assets in spreadsheets, harbour masters guessing at vessel arrivals, or a small business tracking orders in a group chat, the pattern is the same. Most people rush to a solution. I slow down, map the process and ask questions until I understand the root cause, not just the symptom. Then I build something that handles the edge cases, not just the happy path.
 
-Whether it's harbour masters frustrated with unpredictable vessel schedules, IT teams managing assets in spreadsheets, procurement staff stuck in 5-day cycles, or Jamaicans trying to understand AI — I want to understand their problem deeply, then ship something that actually works.
-
-The best part? Seeing them use it. Watching adoption metrics that prove I solved something real. Seeing business impact: time saved, money saved, compliance achieved, problems gone.
-
-Being an engineer taught me to think about systems, trade-offs, edge cases, reliability. I learned that good engineering means thinking about what could go wrong. Transitioning to PM, I realized: the same rigor applies to problems. Most people rush to solutions. I slow down. I listen. I ask questions until I understand not just the symptom but the root cause. Then I design something that handles the edges, not just the happy path.
-
-**What makes me different**: I can read code and challenge architecture. But more importantly, I care about reliability, data quality, adoption, and edge cases — because I know that's how you earn trust with users and stakeholders. I believe AI systems can transform how we work, and I'm committed to shipping them responsibly, with humans meaningfully in the loop.
+Engineering taught me to think about reliability, data quality and what could go wrong. Working directly with users taught me that a system only matters if people actually use it. I care about both.
 
 ---
 
 ## Education
 
-**University of the West Indies, Mona — Kingston, Jamaica**
+**University of the West Indies, Mona · Kingston, Jamaica**
 
-- **B.Sc. Computer Science** — *January 2026*
-- Upper Second-Class Honours (Magna Cum Laude) | GPA: 3.2 / 4.0
-- **Top-20 Finalist**, National AI Hackathon (2024) — awarded full scholarship to Intellibus AI Academy for applied ML performance
-- **Recognized by Port Authority of Jamaica** for leading EProcurement Portal product — credited with significant efficiency, transparency, and cost-savings improvements
-- **DESSO Foundation Academic Grant Recipient** (2022–2024)
+- **B.Sc. Computer Science**, Upper Second-Class Honours | GPA: 3.2 / 4.0 | *Graduated Feb 2025*
+- **Top-20 Finalist**, National AI Hackathon (2024), awarded a full scholarship to Intellibus AI Academy
+- **Recognized by the Port Authority of Jamaica** for leading the e-Procurement Portal, credited with major efficiency, transparency and cost improvements
+- **DESSO Foundation Academic Grant Recipient** (2022 to 2024)
